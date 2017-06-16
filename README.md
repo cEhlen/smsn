@@ -25,5 +25,4 @@ MIT © [Christoph Ehlen]()
 [travis-url]: https://travis-ci.org/cEhlen/smsn
 [daviddm-image]: https://david-dm.org/cEhlen/smsn.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/cEhlen/smsn
-[coveralls-image]: https://coveralls.io/repos/cEhlen/smsn/badge.svg
-[coveralls-url]: https://coveralls.io/r/cEhlen/smsn
+[![Coverage Status](https://coveralls.io/repos/github/cEhlen/smsn/badge.svg)](https://coveralls.io/github/cEhlen/smsn)
